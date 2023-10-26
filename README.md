@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Guyss 
 
 <!--
 **nzzzztx/nzzzztx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Muhammad Nathan Asy Syaiba Amien
+Nathan Asy
 
 ### Github Statistic
 <p align="left">
