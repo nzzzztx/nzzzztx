@@ -3,14 +3,15 @@
 # 👋 Nathan Asy
 **Full-Stack Web Developer & UI UX Enthusiast**
 
-Clean logic • Scalable systems • Thoughtful UI
-
 </div>
 
 ---
 
 ## 🧠 About
-I build real-world web applications with a strong focus on **backend logic**, **clean structure**, and **consistent UI**.
+
+I’m a **Full-Stack Web Developer & UI/UX Enthusiast** who enjoys building real-world applications from end to end.  
+
+I focus on **strong backend logic**, **clean and scalable architecture**, and **user interfaces that are intuitive, consistent, and visually thoughtful**.
 
 ---
 
@@ -30,7 +31,7 @@ I build real-world web applications with a strong focus on **backend logic**, **
   <img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF" />
   <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </p>
----
+
 
 ## 💻 Programming Languages & 📊 GitHub Stats
 
