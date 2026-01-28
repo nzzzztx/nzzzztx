@@ -17,33 +17,32 @@ I focus on **strong backend logic**, **clean and scalable architecture**, and **
 
 ## 🧰 Use To Code
 
-<table align="center">
-  <tr>
-    <td align="center">
+<p align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
-<img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4" />
-<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/MongoDB_Atlas-111111?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+<img src="https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Laravel-1f2937?style=flat-square&logo=laravel&logoColor=FF2D20" />
+<img src="https://img.shields.io/badge/PHP-1f2937?style=flat-square&logo=php&logoColor=777BB4" />
+<img src="https://img.shields.io/badge/MySQL-1f2937?style=flat-square&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/MongoDB_Atlas-1f2937?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/CSS3-1f2937?style=flat-square&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/HTML5-1f2937?style=flat-square&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/Bootstrap-1f2937?style=flat-square&logo=bootstrap&logoColor=7952B3" />
 
-<br/><br/>
+</p>
 
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF" />
-<img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-<img src="https://img.shields.io/badge/Visual_Studio_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-<img src="https://img.shields.io/badge/Windows-111111?style=for-the-badge&logo=windows&logoColor=0078D6" />
-<img src="https://img.shields.io/badge/macOS-111111?style=for-the-badge&logo=apple&logoColor=ffffff" />
+<p align="center">
 
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/Vite-1f2937?style=flat-square&logo=vite&logoColor=646CFF" />
+<img src="https://img.shields.io/badge/Figma-1f2937?style=flat-square&logo=figma&logoColor=F24E1E" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-1f2937?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/Windows-1f2937?style=flat-square&logo=windows&logoColor=0078D6" />
+<img src="https://img.shields.io/badge/macOS-1f2937?style=flat-square&logo=apple&logoColor=ffffff" />
+
+</p>
 
 
 ## 💻 Programming Languages & 📊 GitHub Stats
