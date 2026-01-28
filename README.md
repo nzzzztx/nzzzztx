@@ -33,6 +33,16 @@ I build real-world web applications with a strong focus on **backend logic**, **
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160"
+    src="https://github-readme-stats.vercel.app/api?username=nzzzztx&show_icons=true&theme=algolia&hide_border=true"
+  />
+</p>
+
+---
+
 ## 💻 Programming Languages
 
 <p align="center">
@@ -40,6 +50,14 @@ I build real-world web applications with a strong focus on **backend logic**, **
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzzzztx&layout=compact&theme=algolia&hide_border=true"
     alt="Most Used Languages"
   />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-111111?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=777BB4" />
 </p>
 
 ---
