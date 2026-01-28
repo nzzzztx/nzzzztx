@@ -1,26 +1,68 @@
-### Hello 
+# 👋 Hi, I'm Nathan Asy
 
-<!--
-**nzzzztx/nzzzztx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer  
+💻 Laravel • React • Python • UI/UX Enthusiast  
+📍 Indonesia
 
-Here are some ideas to get you started:
+I enjoy building **clean, scalable applications** with strong attention to **logic, performance, and user experience**.  
+Currently focusing on **web apps, dashboards, and product-ready systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-Nathan Asy
+## 🧠 About Me
 
-### Github Statistic
+- 🔭 Working on **multi-tenant web applications**
+- ⚙️ Backend focused on **Laravel & MySQL**
+- 🎨 Frontend with **React, Vite, and modern CSS**
+- 🧩 Love solving **logic bugs & UI edge cases**
+- 📈 Always improving **code quality & structure**
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+- Laravel
+- PHP
+- Python
+- MySQL
+- MongoDB
+
+**Frontend**
+- React
+- JavaScript / TypeScript
+- HTML5 & CSS3
+
+**Tools**
+- Git & GitHub
+- Vite
+- Figma
+- VS Code
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="left">
-<a href="https://github.com/muhammad-ramdani">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nzzzztx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nzzzztx&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nzzzztx&show_icons=true&theme=algolia&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzzzztx&layout=compact&theme=algolia&hide_border=true" />
 </p>
+
+---
+
+## 🚀 Current Focus
+
+- Building **real-world production apps**
+- Improving **UI consistency & responsiveness**
+- Writing **clean, maintainable code**
+- Learning better **architecture & patterns**
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/nzzzztx
+
+---
+
+⭐ *“Code is not just about making it work, but making it right.”*
