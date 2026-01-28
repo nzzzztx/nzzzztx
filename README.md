@@ -45,6 +45,9 @@ I focus on **strong backend logic**, **clean and scalable architecture**, and **
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat&logo=mongodb&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Laragon-0E83CD?style=flat&logo=server&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=apachefriends&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/MAMP-02749C?style=flat&logo=server&logoColor=ffffff" />
 
 </p>
 
