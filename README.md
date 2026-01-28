@@ -42,7 +42,6 @@ I focus on **strong backend logic**, **clean and scalable architecture**, and **
 <img src="https://img.shields.io/badge/Windows-111111?style=for-the-badge&logo=windows&logoColor=0078D6" />
 <img src="https://img.shields.io/badge/macOS-111111?style=for-the-badge&logo=apple&logoColor=ffffff" />
 
-    </td>
   </tr>
 </table>
 
