@@ -57,6 +57,7 @@ I focus on **strong backend logic**, **clean and scalable architecture**, and **
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=ffffff" />
