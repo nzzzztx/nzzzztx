@@ -1,81 +1,58 @@
 <div align="center">
 
-# 👋 Hey there, I'm Nathan Asy
+# 👋 Nathan Asy
+**Full-Stack Web Developer**
 
-Full-Stack Web Developer  
-Building real-world web applications with clean logic & thoughtful UI
+Clean logic • Scalable systems • Thoughtful UI
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-
-- Enjoy solving **real problems** through code  
-- Focused on **backend logic & system structure**  
-- Passionate about **UI consistency & usability**  
-- Prefer **clean, maintainable solutions** over quick hacks  
+## 🧠 About
+I build real-world web applications with a strong focus on **backend logic**, **clean structure**, and **consistent UI**.
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Use To Code
 
-### Backend
-- Laravel  
-- PHP  
-- Python  
-- Flask  
-- MySQL  
-- MongoDB Atlas  
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+  <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+</p>
 
-### Frontend
-- React  
-- JavaScript / TypeScript  
-- HTML5 & CSS3  
-
-### Tools
-- Git & GitHub  
-- Vite  
-- Figma  
-- VS Code  
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF" />
+  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+</p>
 
 ---
 
 ## 💻 Programming Languages
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzzzztx&layout=compact&theme=algolia&hide_border=true"
     alt="Most Used Languages"
   />
 </p>
 
-> Languages shown here represent **real usage in projects**, not just experiments.
-
 ---
 
 ## 📘 GitHub Overview
 
-This GitHub profile is used as a **development workspace** to:
-
-- Build and iterate real applications  
-- Explore better architecture patterns  
-- Refactor existing codebases  
-- Improve performance & readability  
-- Experiment with UI & UX improvements  
-
-I value **long-term maintainability** over short-term metrics.
-
----
-
-## 📫 Get in Touch
-
-- GitHub: https://github.com/nzzzztx
+GitHub is my workspace to **build**, **refactor**, and **improve** applications over time —  
+focusing on maintainability rather than numbers.
 
 ---
 
 <div align="center">
 
-**“Write code for humans first, machines second.”**
+_“Simple code scales better.”_
 
 </div>
