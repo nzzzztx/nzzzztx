@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Nathan Asy
+#  Nathan Asy
 **Full-Stack Web Developer & UI UX Enthusiast**
 
 </div>
