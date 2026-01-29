@@ -46,6 +46,7 @@ I focus on **strong backend logic**, **clean and scalable architecture**, and **
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat&logo=mongodb&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Laragon-0E83CD?style=flat&logo=server&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=apachefriends&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/MAMP-02749C?style=flat&logo=server&logoColor=ffffff" />
 
@@ -58,6 +59,8 @@ I focus on **strong backend logic**, **clean and scalable architecture**, and **
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Backlog-0F4C81?style=flat&logo=backlog&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=ffffff" />
