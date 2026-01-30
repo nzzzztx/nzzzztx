@@ -71,8 +71,12 @@ I focus on **strong backend logic**, **clean and scalable architecture**, and **
 ## 💻 Programming Languages & 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nzzzztx&show_icons=true&theme=algolia&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzzzztx&layout=compact&theme=algolia&hide_border=true" />
+  <img height="160" 
+    src="https://github-readme-stats.vercel.app/api?username=nzzzztx&show_icons=true&theme=algolia&hide_border=true&cache_seconds=1800" 
+    alt="GitHub Stats" />
+  <img height="160" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzzzztx&layout=compact&theme=algolia&hide_border=true&cache_seconds=1800" 
+    alt="Most Used Languages" />
 </p>
 
 ---
