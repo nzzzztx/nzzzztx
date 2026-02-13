@@ -86,6 +86,6 @@ focusing on maintainability rather than numbers.
 
 <div align="center">
 
-_“Simple code scales better.”_
+_“Code mumet mumet gas terus.”_
 
 </div>
